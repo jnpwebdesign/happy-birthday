@@ -4,7 +4,7 @@ body {
     padding: 0;
     font-family: 'Happy Monkey', cursive;
     text-align: center;
-    background-color: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
     color: white; 
 
 }
@@ -103,7 +103,7 @@ footer {
 
 .link:hover {
     transition: all 0.2s;
-    color: #EFB0C9;
+    color: #a2d2ff;
 }
 
 
